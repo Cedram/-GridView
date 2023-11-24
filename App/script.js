@@ -34,7 +34,7 @@ gridView.attribute = {
     label: "Компания",
     src: "html",
   },
-  chef: {
+  shef: {
     label: "Директор",
   },
   country: {
